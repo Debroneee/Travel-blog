@@ -17,7 +17,7 @@
     "gatsby-plugin-yandex-metrika": "^1.3.0",
     "gatsby-source-contentful": "^2.1.66",
     "gatsby-source-filesystem": "^2.1.39",
-    "gatsby-transformer-remark": "^2.6.39",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.3.7",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
